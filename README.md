@@ -6,3 +6,5 @@ Nesta atividade, você irá praticar o uso do Git, um sistema de controle de ver
 plataforma de hospedagem de código para controle de versão e colaboração, permitindo que você e outros trabalhem 
 juntos em projetos de qualquer lugar.
 
+![Imagem Github](images/img.png)
+
